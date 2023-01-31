@@ -1,0 +1,35 @@
+#name {
+    font-family: moonspace;
+    font-size: 50px;
+    text-emphasis: underline;
+    color: Gold;
+    opacity: 0.7;
+
+}
+.textabout {
+    font-family: "Alatsi";
+    color: green;
+
+
+}
+.about {
+    font-family: "cursive";
+    color: Gold;
+}
+body {
+    background-color: black;
+}
+
+.datafamily {
+    font-family: "Alatsi";
+    color: Green;
+
+}
+.likes {
+    color: Gold;
+    font-family: "cursive";
+}
+.family {
+    color: Gold;
+    font-family: "cursive";
+}
